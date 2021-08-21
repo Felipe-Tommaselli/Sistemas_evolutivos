@@ -1,0 +1,6 @@
+LINKS ÚTES PARA DISCIPLINA
+
+gitlab com instruções da matéria: https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0713-Sistemas-Evolutivos-Aplicados-a-Robotica
+
+github chicao: https://github.com/faffonso/SistEvolutivos
+github gian: https://github.com/gianvstheworld?tab=repositories
