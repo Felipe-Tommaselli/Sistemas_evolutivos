@@ -62,4 +62,11 @@ i9 = (8, 2, 6, 88)
 
 > Aula meio aleatoria, porém continuamos a anotar os pontos principais
 
-* Ao contrário da aula 2 onde o professor propos utilziar uma taxa de mutação que aumenta quando o sistema estabiliza, ele propos o exemplo de um braço robótico articulado que quer que sua ponta encoste em um ponto especifico. Nele seria interessante DIMINUIR a taxa de mutação quando o sistema começasse a estabilizar, pois dessa forma poderiamos fazer o ajuste fino da ponto do braço ate chegar exatamente no ponto 
+* Ao contrário da aula 2 onde o professor propos utilziar uma taxa de mutação que aumenta quando o sistema estabiliza, ele propos o exemplo de um braço robótico articulado que quer que sua ponta encoste em um ponto especifico. Nele seria interessante DIMINUIR a taxa de mutação quando o sistema começasse a estabilizar, pois dessa forma poderiamos fazer o ajuste fino da ponto do braço ate chegar exatamente no ponto
+
+* Pareto: AG multiobjetivo (objetivassao conflitante)
+    * Exemplo do braco robotico com um obstaculo no meio, objetivo1: Chegar no melhor possivel no ponto, objetivo2: Desviar o maximo possivel do obstaculo
+
+* Fit = Fitness maximo que o AG1 chega depois de N gerações
+
+* Se vc criar um AG2 (algoritmo genético) bom que otimize e melhore o seu AG1 que realmente está ligado com a aplicação principal, voce vai gastar um tempinho bom mas será mto mais facil fazer mudanca nas taxas de otimizacao do seu agortimo e **AGs configuram/tunam AGs melhor que humanos**. O bonus é que caso a aplicaçao mude drasticamente, o AG2 terá poucas alterações.
