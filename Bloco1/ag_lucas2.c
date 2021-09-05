@@ -1,3 +1,5 @@
+// Algoritmo evolutivo do Lucas Alves Roris (Aula 2)
+
 #include<stdlib.h>
 #include<stdio.h>
 #include <time.h>

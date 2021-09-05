@@ -2,7 +2,7 @@
 
 * gitlab: https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0713-Sistemas-Evolutivos-Aplicados-a-Robotica
 
-## Aula 1:
+## Aula 1
 
 * Gravação: https://drive.google.com/file/d/1z0wHTwafRw7nwQTY3KkOe3I3OxQAmEqq/view
 
